@@ -5,7 +5,7 @@ node_modules
 .vscode
 
 # Parcel
-
+dist
 .parcel-cache
 
 #OS Files
