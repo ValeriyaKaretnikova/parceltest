@@ -6,7 +6,6 @@ node_modules
 
 # Parcel
 
-dist
 .parcel-cache
 
 #OS Files
